@@ -1,4 +1,4 @@
 == README
 
 
-This is just an implementation of a family tree in Rails. This is the extra credit portion which uses a recursive method for finding ancestors and the corresponding spec. 
+This is just an implementation of a family tree in Rails assignment for SDLearn. This is the extra credit portion which uses a recursive method for finding ancestors and includes the corresponding spec. 
