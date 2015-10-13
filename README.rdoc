@@ -1,6 +1,4 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
 This is just an implementation of a family tree in Rails. This is the extra credit portion which uses a recursive method for finding ancestors and the corresponding spec. 
