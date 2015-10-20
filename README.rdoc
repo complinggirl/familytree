@@ -1,4 +1,11 @@
 == README
 
 
-This is just an implementation of a family tree in Rails assignment for SDLearn. This is the extra credit portion which uses a recursive method for finding ancestors and includes the corresponding spec. 
+This is an implementation of a family tree in Rails assignment for SDLearn. This includes the extra credit portion which uses a recursive method for finding ancestors and includes the corresponding spec. I don't often get to write methods of this type so it was actually a treat. 
+
+There is no user interface for this program. It was designed to demonstrate the use of rspec. To use, clone to desktop, 
+
+$rake db:create
+$rake db:migrate
+$ rspec family_spec
+
