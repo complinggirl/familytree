@@ -7,5 +7,5 @@ There is no user interface for this program. It was designed to demonstrate the 
 
 $rake db:create
 $rake db:migrate
-$ rspec family_spec
+$ rspec person_spec
 
